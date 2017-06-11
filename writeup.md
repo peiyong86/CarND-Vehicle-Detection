@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image4]: ./examples/sliding_window.png
 [image5]: ./examples/bboxes_and_heat2.png
 [image6]: ./examples/labels_map.png
-[image7]: ./examples/output_bboxes.png
+[image7]: ./examples/outputbbox.png
 [video1]: ./project_video.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
