@@ -52,7 +52,8 @@ Here is an example using the `YCrCb` color space and HOG parameters of `orientat
 
 ####2. Explain how you settled on your final choice of HOG parameters.
 
-I tried various combinations of parameters and...
+I tried various combinations of parameters and the default parameters used in udacity course can generate good results. So I just use the default parameters.
+One different part is that I use three different scales instead of single scales. Because the vehicles can appear in different scales in the video.
 
 ####3. Describe how (and identify where in your code) you trained a classifier using your selected HOG features (and color features if you used them).
 
