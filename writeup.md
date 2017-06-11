@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [image2]: ./examples/HOG_example.jpg
 [image3]: ./examples/sliding_windows.jpg
 [image4]: ./examples/sliding_window.png
-[image5]: ./examples/bboxes_and_heat.png
+[image5]: ./examples/bboxes_and_heat2.png
 [image6]: ./examples/labels_map.png
 [image7]: ./examples/output_bboxes.png
 [video1]: ./project_video.mp4
